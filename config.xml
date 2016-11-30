@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="com.ubamenlinea.appoficial" version="3.1.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>UBAM EN LÍNEA</name>
+  <name>UBAM EN LINEA</name>
   <description>La aplicación oficial de la plataforma UBAM</description>
   <author href="http://104.236.20.49" email="gonzalopachecoalvarez@gmail.com">Global Tech</author>
   <content src="index.html"/>
