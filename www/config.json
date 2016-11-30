@@ -1,5 +1,5 @@
 {
-    "app_id" : "com.ubamenlinea.appofficial",
+    "app_id" : "com.ubamenlinea.appoficial",
     "appname": "UBAM EN LÍNEAe",
     "versioncode" : "2017",
     "versionname" : "1.0",
@@ -10,7 +10,7 @@
     "wsextservice" : "local_mobile",
     "demo_sites": "",
     "gcmpn": "694767596569",
-    "customurlscheme": "ubamenlinea",
+    "customurlscheme": "http://104.236.20.49",
     "siteurl": "http://104.236.20.49",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false"
